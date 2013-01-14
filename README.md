@@ -47,6 +47,6 @@ This tool apply the guide developed by the Communications and Marketing Branch a
 ###W
 
 ###Z
-
+***
 Disclaimer
 This tool provides guidance only. If there are any discrepancies between this guide and the web standards for the Government of Canada found on the Treasury Board of Canada Secretariat website, the standards are to be taken as authoritative.
