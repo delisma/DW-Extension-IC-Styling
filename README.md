@@ -27,7 +27,7 @@ This tool apply the guide developed by the Communications and Marketing Branch a
 - Line break control
   - Non-breaking space
   - Lists
-    - <ol> special numbering
+    - `<ol>` special numbering
 
 ###M
 
