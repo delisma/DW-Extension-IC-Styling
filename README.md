@@ -1,52 +1,53 @@
-#IC internet styling tool
+# IC internet styling tool
 
 This tool apply the guide developed by the Communications and Marketing Branch and is intended for web publishers who are developing Industry Canada websites on Adobe Dreamweaver. It outlines how to use HTML5, Cascading Style Sheets (CSS) and the Web Experience Toolkit (WET) to meet the department's presentation styles, usability and accessibility requirements.
 
-##The styles covered
+## The styles covered
 
-###A
+### A
 - Acronyms and abbreviations
 - Alphabetical index class
 
-###B
+### B
 
-###C
+### C
 
-###D
+### D
 
-###E
+### E
 
-###F
+### F
 - Footnotes New
 
-###H
+### H
 
-###I
+### I
 
-###L
+### L
 - Line break control
   - Non-breaking space
   - Lists
     - `<ol>` special numbering
 
-###M
+### M
 
-###O
+### O
 
-###P
+### P
 - PDF reference box
 
-###Q
+### Q
 
-###R
+### R
 
-###S
+### S
 
-###T
+### T
 
-###W
+### W
 
-###Z
+### Z
+
 ***
 Disclaimer
 This tool provides guidance only. If there are any discrepancies between this guide and the web standards for the Government of Canada found on the Treasury Board of Canada Secretariat website, the standards are to be taken as authoritative.
